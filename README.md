@@ -9,7 +9,7 @@ The Weather Detector App is a web application built with Django that provides us
 ## Screenshots
 
 [to_showcase its funtionality![we1](https://github.com/pkrnganesh/weatherdetector/assets/144223747/22642730-9952-4f15-8c40-c34acb387e36)
-[we2](https://github.com/pkrnganesh/weatherdetector/assets/144223747/4efdb52b-70cc-434f-83a2-3886de701467)
+![we2](https://github.com/pkrnganesh/weatherdetector/assets/144223747/4efdb52b-70cc-434f-83a2-3886de701467)
 ]
 
 ## Installation
@@ -17,7 +17,7 @@ The Weather Detector App is a web application built with Django that provides us
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/weather-detector-app.git
+git clone https://github.com/myusername/weather-detector-app.git
 
 2. Install dependencies:
 
